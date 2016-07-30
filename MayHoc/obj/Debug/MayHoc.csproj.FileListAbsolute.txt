@@ -1,0 +1,61 @@
+c:\users\zorro\documents\visual studio 2015\Projects\MayHoc\MayHoc\bin\Debug\MayHoc.exe.config
+c:\users\zorro\documents\visual studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.csprojResolveAssemblyReference.cache
+c:\users\zorro\documents\visual studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.Properties.Resources.resources
+c:\users\zorro\documents\visual studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.csproj.GenerateResource.Cache
+c:\users\zorro\documents\visual studio 2015\Projects\MayHoc\MayHoc\bin\Debug\MayHoc.exe
+c:\users\zorro\documents\visual studio 2015\Projects\MayHoc\MayHoc\bin\Debug\MayHoc.pdb
+c:\users\zorro\documents\visual studio 2015\Projects\MayHoc\MayHoc\bin\Debug\DevComponents.DotNetBar2.xml
+c:\users\zorro\documents\visual studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.exe
+c:\users\zorro\documents\visual studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.pdb
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\bin\Debug\MayHoc.exe.config
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.exe
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.pdb
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\bin\Debug\MayHoc.exe
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\bin\Debug\MayHoc.pdb
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.csprojResolveAssemblyReference.cache
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.Properties.Resources.resources
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.csproj.GenerateResource.Cache
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.Form3.resources
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.Sosanhcau.resources
+C:\Users\nvtai\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.ThongTin.resources
+C:\Users\Zorro\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.Form3.resources
+C:\Users\Zorro\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.Sosanhcau.resources
+C:\Users\Zorro\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.ThongTin.resources
+C:\Users\Zorro\Documents\Visual Studio 2015\Projects\MayHoc\MayHoc\obj\Debug\MayHoc.CaiDat.resources
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\bin\Debug\MayHoc.exe.config
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\obj\Debug\MayHoc.exe
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\obj\Debug\MayHoc.pdb
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\bin\Debug\MayHoc.exe
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\bin\Debug\MayHoc.pdb
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\obj\Debug\MayHoc.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\obj\Debug\MayHoc.CaiDat.resources
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\obj\Debug\MayHoc.Form3.resources
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\obj\Debug\MayHoc.Properties.Resources.resources
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\obj\Debug\MayHoc.Sosanhcau.resources
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\obj\Debug\MayHoc.ThongTin.resources
+C:\Users\Admin\Desktop\MayHoc(1)\MayHoc\MayHoc\obj\Debug\MayHoc.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\bin\Debug\MayHoc.exe.config
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.exe
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.pdb
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\bin\Debug\MayHoc.exe
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\bin\Debug\MayHoc.pdb
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.CaiDat.resources
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.Form3.resources
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.Properties.Resources.resources
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.Sosanhcau.resources
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.ThongTin.resources
+C:\Users\Admin\Desktop\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.csproj.GenerateResource.Cache
+F:\Stuff\machine learning\MayHoc\MayHoc\bin\Debug\MayHoc.exe.config
+F:\Stuff\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.exe
+F:\Stuff\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.pdb
+F:\Stuff\machine learning\MayHoc\MayHoc\bin\Debug\MayHoc.exe
+F:\Stuff\machine learning\MayHoc\MayHoc\bin\Debug\MayHoc.pdb
+F:\Stuff\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.csprojResolveAssemblyReference.cache
+F:\Stuff\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.CaiDat.resources
+F:\Stuff\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.Form3.resources
+F:\Stuff\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.Properties.Resources.resources
+F:\Stuff\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.Sosanhcau.resources
+F:\Stuff\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.ThongTin.resources
+F:\Stuff\machine learning\MayHoc\MayHoc\obj\Debug\MayHoc.csproj.GenerateResource.Cache
